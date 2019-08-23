@@ -1,0 +1,32 @@
+html {
+  scroll-behavior: smooth;
+}
+.navbar-react {
+  position: fixed;
+  width: 100%;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.navbar-default .navbar-nav > .alternate > a {
+  color: #ffffff;
+}
+.dropdown {
+  cursor: pointer;
+}
+.dropdown > a {
+  pointer-events: none;
+}
+.navbar-toggle * {
+  pointer-events: none;
+}
+.navbar-sidepanel .navbar-collapse {
+  width: 500px;
+  max-width: 80%;
+}
+.sidepanel-backdrop {
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+header.sticky {
+  background-color: rgba(0, 0, 0, 0.6);
+}
