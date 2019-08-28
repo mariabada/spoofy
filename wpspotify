@@ -1,0 +1,245 @@
+<!-- wp:coblocks/hero {"paddingTopTablet":1,"paddingSize":"advanced","paddingSyncUnits":true,"backgroundImg":"https://cwgproject.files.wordpress.com/2019/08/premium_dancer_prod.png","backgroundPosition":"","backgroundSize":"cover","backgroundColor":"vivid-cyan-blue","focalPoint":{"x":0.9662317807982568,"y":0.27916672650505514},"contentAlign":"left","customTextColor":"#ffffff","maxWidth":620,"className":"@media handheld, only screen and (max-width: 767px) { .organic-widgets-hero-information .organic-widgets-title font-size: 1.6em !important; }","coblocks":{"id":"724164657955"}} -->
+<div class="wp-block-coblocks-hero alignfull has-text-color coblocks-hero-724164657955 @media handheld, only screen and (max-width: 767px) { .organic-widgets-hero-information .organic-widgets-title font-size: 1.6em !important; }" style="color:#ffffff"><div class="wp-block-coblocks-hero__inner has-background has-vivid-cyan-blue-background-color has-background-image bg-no-repeat bg-cover hero-center-left-align has-padding has-vivid-cyan-blue-background-color has-left-content" style="background-image:url(https://cwgproject.files.wordpress.com/2019/08/premium_dancer_prod.png);background-position:96.62317807982568% 27.916672650505514%;min-height:500px"><div class="wp-block-coblocks-hero__box" style="max-width:620px"><!-- wp:paragraph {"customFontSize":50} -->
+<p style="font-size:50px"><strong>Go Premium. Be happy</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","customTextColor":"#ffffff","customFontSize":22} -->
+<p style="color:#ffffff;font-size:22px;text-align:left" class="has-text-color"><strong>Try Premium free for 3 months. Only £9.99/month after.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:coblocks/buttons {"items":2,"isStackedOnMobile":true} -->
+<div class="wp-block-coblocks-buttons"><div class="wp-block-coblocks-buttons__inner flex-align-left is-stacked-on-mobile"><!-- wp:button {"customBackgroundColor":"#1db954","placeholder":"Add primary action..."} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://www.spotify.com/uk/purchase/offer/default-3-month-trial?_ga=2.267042317.267528744.1566584523-1205872013.1566584523" style="background-color:#1db954" target="_blank" rel="noreferrer noopener"><p style="font-size:14px;"><strong>START FREE TRIAL</strong></p></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"customBackgroundColor":"#3794d1","customTextColor":"#ffffff","placeholder":"Add secondary action...","className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-background" href="#plans" style="background-color:#3794d1;color:#ffffff"><p style="font-size:14px;"><strong>SEE PLANS</strong></p></a></div>
+<!-- /wp:button --></div></div>
+<!-- /wp:coblocks/buttons -->
+
+<!-- wp:paragraph {"customTextColor":"#ffffff","customFontSize":12} -->
+<p style="color:#ffffff;font-size:12px" class="has-text-color">* <a href="https://www.spotify.com/legal/premium-individual-3-month-trial-terms">Terms and conditions</a> apply. Open only to users who haven't already tried Premium</p>
+<!-- /wp:paragraph --></div></div></div>
+<!-- /wp:coblocks/hero -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p style="text-align:center" class="has-huge-font-size"><strong>Why go Premium?</strong></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":519,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cwgproject.files.wordpress.com/2019/08/screenshot5.png?w=144" alt="" class="wp-image-519"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:html -->
+<p style="font-size:21px;text-align:center;"><strong>Download&nbsp;music.</strong></p> <p style="font-size:16px;text-align:center;">Listen everywhere.</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":524,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cwgproject.files.wordpress.com/2019/08/screenshot9.png?w=145" alt="" class="wp-image-524"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:html -->
+<p style="font-size:21px;text-align:center;"><strong>No ad interruptions.</strong></p><p style="font-size:16px;text-align:center;">Enjoy nonstop music</p>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"align":"center","id":521,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cwgproject.files.wordpress.com/2019/08/screenshot10.png?w=145" alt="" class="wp-image-521"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:html -->
+<p style="font-size:21px;text-align:center;"><strong>Play any song.</strong></p><p style="font-size:16px;text-align:center;">Even on mobile</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"align":"center","id":522,"sizeSlug":"thumbnail"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cwgproject.files.wordpress.com/2019/08/screenshot11.png?w=145" alt="" class="wp-image-522"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:html -->
+<p style="font-size:21px;text-align:center;"><strong>Unlimited skips.</strong></p><p style="font-size:16px;text-align:center;">Just hit next</p>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<p id="plans"><p style="font-size:31px;text-align:center;"><strong>Pick your Premium</strong></p>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://promo.spotify.com/uk/store-4/?checkout=false#collapsestudent-trial" target="_blank" rel="noreferrer noopener" style="background-color:#3794d1;"><p style="font-size:12px;"><strong>3-months free</strong></p></a></div>
+<p style="font-size:23px;"><strong>Individual</strong></p>
+<p style="font-size:14px;">1 account
+<br>
+Listen to 50 million songs ad-free, play offline, and skip all you want.</p>
+<!-- /wp:html -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<p style="font-size:18px;"><strong>£9.99</strong> / month after trial.</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-background" style="background-color:#1db954;" target="_blank" rel="noreferrer noopener"><p style="font-size:14px;"><strong>START FREE TRIAL</strong></p></a></div>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"customFontSize":12} -->
+<p style="font-size:12px"><a href="https://www.spotify.com/legal/premium-individual-3-month-trial-terms">Terms and conditions</a>&nbsp;apply. Open only to users who haven't already tried Premium.
+
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<p style="font-size:24px;"><strong>Family</strong></p>
+<p style="font-size:14px;">6 accounts
+<br>
+All the Premium benefits for up to 6 people who live together.</p>
+<!-- /wp:html -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<p style="font-size:18px;"><strong>£14.99</strong> / month after trial.</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-background" href="https://www.spotify.com/uk/purchase/offer/family?_ga=2.199916205.267528744.1566584523-1205872013.1566584523" style="background-color:#1db954;" target="_blank" rel="noreferrer noopener"><p style="font-size:14px;"><strong>GET STARTED</strong></p></a></div>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"customFontSize":12} -->
+<p style="font-size:12px">Get Premium accounts for you and up to five people who reside at your same address.&nbsp;<a href="https://www.spotify.com/legal/family-plan">Terms &amp; Conditions</a>&nbsp;apply.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://promo.spotify.com/uk/store-4/?checkout=false#collapsestudent-trial" target="_blank" rel="noreferrer noopener" style="background-color:#3794d1;"><p style="font-size:12px;"><strong>3-months free</strong></p></a></div>
+<p style="font-size:23px;"><strong>Student</strong></p>
+<p style="font-size:16px;">1 account
+<br>
+All the benefits of Premium, at a special price for eligible students in college or university.</p>
+<!-- /wp:html -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<p style="font-size:18px;"><strong>£4.99</strong> / month after trial.</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-background" href="https://www.spotify.com/student/verification?_ga=2.206616976.267528744.1566584523-1205872013.1566584523" style="background-color:#1db954;" target="_blank" rel="noreferrer noopener"><p style="font-size:14px;"><strong>START FREE TRIAL</strong></p></a></div>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"customFontSize":12} -->
+<p style="font-size:12px">Offer available only to students at an accredited higher education  institution. Offer not available to users who already tried Premium.  Spotify Student Discount Offer <a href="https://www.spotify.com/legal/premium-student-3-month-trial-terms">Terms and Conditions apply</a>. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center","customFontSize":21} -->
+<p style="font-size:21px;text-align:center">Other way to go Premium</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<p style="font-size:24px;"><strong>Individual + Headspace</strong></p>
+<p style="font-size:14px;">1 account
+<br>
+Listen to 50 million songs ad-free, play offline, and skip all you want.</p>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<p style="font-size:18px;"><strong>£4.99</strong> / month for 3 months.</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-background" href="https://www.spotify.com/us/headspace/student/?_ga=2.240219520.267528744.1566584523-1205872013.1566584523" target="_blank" rel="noreferrer noopener"><p style="font-size:14px;"><strong>GET STARTED</strong></p></a></div>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"customFontSize":12} -->
+<p style="font-size:12px">After offer period, £14.99/mo for both subscriptions. Cancel anytime. Limited eligibility.&nbsp;<a href="https://www.spotify.com/uk/legal/headspace-intro-trial-offer-terms/">Terms apply</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<p style="font-size:24px;"><strong>Student + Headspace</strong></p>
+<p style="font-size:14px;">1 account<br>
+All the benefits of Premium, at a special price for eligible students in college or university.</p>
+<!-- /wp:html -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<p style="font-size:18px;"><strong>£4.99</strong> / month for 3 months.</p>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-background" href="https://www.spotify.com/us/headspace/student/?_ga=2.240219520.267528744.1566584523-1205872013.1566584523" target="_blank" rel="noreferrer noopener"><p style="font-size:14px;"><strong>GET STARTED</strong></p></a></div>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"customFontSize":12} -->
+<p style="font-size:12px">£14.99 a month after your student subscription ends. Cancel anytime. Limited eligibility.&nbsp;<a href="https://www.spotify.com/uk/legal/headspace-intro-trial-offer-terms/">Terms apply</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
